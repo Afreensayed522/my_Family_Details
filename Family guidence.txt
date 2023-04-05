@@ -1,0 +1,11 @@
+             Family                 names          
+            
+        1 Father                 Sayed Mykharam Pasha
+        2 Mother                 Sayed Ameerunissa
+        3 Younger Brother        Imran
+        4 Elder Brother          Irfan
+        5 Sister                 Mohhamad Neelofar Sultana
+        6 Grand father           Mohhamad Gullamoddin
+        7 Grand Mother           Mohhamad Habbibunnisa
+        8 Aunt                   Mohhamd Sharifunnisa
+        9 Uncle                  Mohhamad Bari                                                       
